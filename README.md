@@ -13,8 +13,8 @@
   - Typescript.
   - PostgresSQL.
   
-💛 Admito que soy mas del Back-end pero no tendria ningun problema en formar parte de algun proyecto el cual me necesiten para Front.
- 🤵 Entre mis hobbies se encuentran: Los videojuegos, Netflix, Twitch,  Ajedrez y Spotify. 
+💛 Admito que soy mas del Back-end pero podria formar parte de algun proyecto el cual me necesiten para Front.<br>
+🤵 Entre mis hobbies se encuentran: Los videojuegos, Netflix, Twitch,  Ajedrez y Spotify. 
  
   
 

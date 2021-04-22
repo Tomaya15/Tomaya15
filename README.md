@@ -1,8 +1,8 @@
 # 👋 Hi!, Soy Tobias.
 
-**En camino a ser el developer que necesitas.** <br>
+  **En camino a ser el developer que necesitas.** <br>
 
- 👀 Actualmente estudiando la Tecnicatura Universitaria en Programacion UNQ.<br><br>
+ 📚 Actual Estudiante de la Tecnicatura Universitaria en Programacion UNQ.<br><br>
  💻 Por mi cuenta he pasado por diferentes tecnologias las cuales fui aprendiendo, entre ellas:
   - HTML.
   - CSS.

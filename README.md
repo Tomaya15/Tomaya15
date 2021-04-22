@@ -3,7 +3,7 @@
 **En camino a ser el developer que necesitas.** <br>
 
  📚 Actual Estudiante de la Tecnicatura Universitaria en Programacion UNQ.<br><br>
- 💻 Por mi cuenta he pasado por diferentes tecnologias las cuales fui aprendiendo meddiante cursos, entre ellas:
+ 💻 Por mi cuenta he pasado por diferentes tecnologias las cuales fui aprendiendo, entre ellas:
   - HTML.
   - CSS.
   - JavaScript.

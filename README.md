@@ -19,7 +19,7 @@
  ## Objetivos 2021
 - [x] Developer Web Junior.
 - [ ] Conseguir mi primer trabajo en una empresa.
-- [ ] Profezionalizarme en un Lenguaje. 
+- [ ] Profesionalizarme en un Lenguaje. 
 
   
 

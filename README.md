@@ -8,7 +8,7 @@
   - CSS.
   - JavaScript.
   - Python.
-  - C#.
+  - PHP.
   - React.
   - Typescript
   - PostgresSQL.

@@ -7,14 +7,15 @@
   - HTML.
   - CSS.
   - JavaScript.
-  - Python.
+  - React
   - Bootstrap.
+  - Firebase
   
   💪 Learning:
-  - Angular.
-  - Typescript
-  - Firebase.
-  - Cypress.
+  - Express.
+  - Typescript.
+  - PostgresSQL.
+
   
 💛 Admito que soy mas del Back-end pero podria formar parte de algun proyecto el cual me necesiten para Front.<br><br>
 🤵 Entre mis hobbies se encuentran: Videojuegos, Netflix, Twitch,  Ajedrez y Spotify. 

@@ -1,4 +1,4 @@
-# 👋 Hi!, Soy Tobias. :flag_es:
+# 👋 Hi!, Soy Tobias. es
 
 **En camino a ser el developer que necesitas.** <br>
 

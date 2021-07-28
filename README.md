@@ -10,11 +10,12 @@
   - React
   - Bootstrap.
   - Firebase
+  - SQL .
   
   💪 Learning:
-  - Express.
+  - Node JS, Express.
   - Typescript.
-  - PostgresSQL.
+  
 
   
 💛 Admito que soy mas del Back-end pero podria formar parte de algun proyecto el cual me necesiten para Front.<br><br>

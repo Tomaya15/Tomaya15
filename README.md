@@ -8,6 +8,7 @@
   - CSS3.
   - JavaScript ES7.
   - React
+  - Redux
   - Bootstrap.
   - Firebase
   - SQL .

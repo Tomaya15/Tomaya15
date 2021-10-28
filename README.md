@@ -7,12 +7,12 @@
   - HTML5.
   - CSS3.
   - JavaScript ES7.
-  - React
-  - Redux
+  - React.
+  - Redux.
   - Bootstrap.
-  - Firebase
-  - SQL .
-  - Java
+  - Firebase.
+  - SQL.
+  - Java.
   
   💪 Learning:
   - Node JS, Express.
